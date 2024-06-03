@@ -1,0 +1,15 @@
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.exe
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.deps.json
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.runtimeconfig.json
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.dll
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.pdb
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.AssemblyInfoInputs.cache
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.AssemblyInfo.cs
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.dll
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\refint\EventManagementSystem.dll
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.pdb
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.genruntimeconfig.cache
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\ref\EventManagementSystem.dll
+C:\Users\baovo\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.sourcelink.json
